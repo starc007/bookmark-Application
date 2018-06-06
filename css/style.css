@@ -1,0 +1,38 @@
+body{
+	margin: 25px;
+	 font-family: 'Josefin Sans', sans-serif ;
+}
+.jumbotron{
+	width: 800px;
+	margin-left: 250px;
+	background-color: #3A4B60;
+	color: white;
+}
+.book_mark{
+	margin-left: 450px;
+	font-size: 50px;
+	text-transform: uppercase;
+
+
+}
+hr{
+	margin-left: 250px;
+	width: 800px;
+	box-shadow: 1px 1px 2px #138496;
+}
+.footer{
+	margin-left: 250px;
+}
+.btn-primary{
+	background-color: forestgreen;
+}
+.well{
+	background-color: lightgrey;
+	height: 70px;
+	border: 1px solid lightgrey;
+	margin: 20px;
+	padding: 15px 0 0 30px;
+	margin-left: 250px;
+	width: 800px;
+	border-radius: 5px;
+}
